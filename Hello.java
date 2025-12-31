@@ -1,5 +1,5 @@
 class Hello {
   public static void main(String[]args){
-    System.out.println("Hello GitHub Updated");
+    System.out.println("Hello GitHub Updated version 2");
   }
 }
